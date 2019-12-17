@@ -1,2 +1,4 @@
 # dimensions-of-scale
-Code and metadata associated with "Dimensions of Scale," PMLA (January 2020)
+Code and data related to "Dimensions of Scale," PMLA (January 2020)
+
+Please contact me at <lauren.klein@emory.edu> with any questions about this repository.
